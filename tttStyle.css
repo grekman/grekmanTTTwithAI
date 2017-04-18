@@ -1,0 +1,25 @@
+
+
+table{
+  width:60vh;
+  height:60vh;
+  border-collapse: collapse;
+  border: 2vh solid white;
+}
+td {
+  width:18vh;
+  height:18vh;
+  text-align: center;
+  border: 1vh solid black;
+}
+
+button {
+    width: 15vh;
+    height: 15vh;
+    background: #fff;
+    border: 1vh none;
+    cursor: pointer;
+    margin: auto;
+    font-size: 12vh;
+    text-align: center;
+}
